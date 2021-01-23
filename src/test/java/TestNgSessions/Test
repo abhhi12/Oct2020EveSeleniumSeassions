@@ -1,0 +1,24 @@
+testNG --> JAVA unit testing FW(Frame Work)
+JUNIT
+
+Pytest -- python Unit testing FW
+PHPUnit
+Nunit
+Mocha/Jasmine
+
+purpose: to write the test cases + assertions + HTML REports + other features
+
+Global Pre condition
+	Pre condition
+		Test Stpes
+			Act vs exp
+		post steps
+
+launch browser, enter url
+
+	get the title test --> test steps + assertions
+	login test
+	search test
+	add to cart test
+	
+close the browser
